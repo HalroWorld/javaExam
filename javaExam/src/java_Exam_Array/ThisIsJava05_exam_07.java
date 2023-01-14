@@ -1,4 +1,4 @@
-package javaExam;
+package java_Exam_Array;
 
 public class ThisIsJava05_exam_07 {
 

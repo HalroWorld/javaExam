@@ -1,9 +1,8 @@
-package javaExam2;
+package java_Exam_String;
 import java.util.*;
-public class Str {
+public class Exam_String_Split2 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
 		Scanner scan = new Scanner(System.in);
 		
 		System.out.println("과일 입력");
